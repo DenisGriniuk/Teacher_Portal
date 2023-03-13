@@ -1,5 +1,5 @@
 ----
-![Header](https://github.com/DenisGriniuk/My_work_1/blob/main/assets/Skyeng.jpg)
+![Header](https://github.com/DenisGriniuk/Teacher_Portal/blob/main/assets/Skyeng.jpg)
 <br><br>
 **Продукт: _портал для преподавателей_**
 
@@ -17,48 +17,48 @@ _Мы добавили в календарь новый элемент — ли�
 ----
 - **Анализ требований, основанный на документации к проекту:**
 
-><img src="https://github.com/DenisGriniuk/My_work_1/blob/main/assets/Requirements_1.jpg?raw=true" width="600">
-><img src="https://github.com/DenisGriniuk/My_work_1/blob/main/assets/Requirements_2.jpg?raw=true" width="600">
-><img src="https://github.com/DenisGriniuk/My_work_1/blob/main/assets/Requirements_3.jpg?raw=true" width="600">
+><img src="https://github.com/DenisGriniuk/Teacher_Portal/blob/main/assets/Requirements_1.jpg?raw=true" width="600">
+><img src="https://github.com/DenisGriniuk/Teacher_Portal/blob/main/assets/Requirements_2.jpg?raw=true" width="600">
+><img src="https://github.com/DenisGriniuk/Teacher_Portal/blob/main/assets/Requirements_3.jpg?raw=true" width="600">
 
 - **Декомпозиция в Miro:** 
 [Функционал "Личные события"](https://miro.com/app/board/uXjVPURZ520=/)
 
 Пример:
 
-><img src="https://github.com/DenisGriniuk/My_work_1/blob/main/assets/Decomposition_1.jpg?raw=true" width="600">
+><img src="https://github.com/DenisGriniuk/Teacher_Portal/blob/main/assets/Decomposition_1.jpg?raw=true" width="600">
 
 ### Были проведены следующие виды тестирования:
 
 - **Smoke-тестирование:**
 
->![smoke](https://github.com/DenisGriniuk/My_work_1/blob/main/assets/smoke.jpg)
+>![smoke](https://github.com/DenisGriniuk/Teacher_Portal/blob/main/assets/smoke.jpg)
 
 Пример:
 
->>![smoke](https://github.com/DenisGriniuk/My_work_1/blob/main/assets/smoke_testing_1.jpg)
->>![smoke](https://github.com/DenisGriniuk/My_work_1/blob/main/assets/smoke_testing_2.jpg)
+>>![smoke](https://github.com/DenisGriniuk/Teacher_Portal/blob/main/assets/smoke_testing_1.jpg)
+>>![smoke](https://github.com/DenisGriniuk/Teacher_Portal/blob/main/assets/smoke_testing_2.jpg)
 
 - **Тестирование новой функциональности:**
 
->[Операции с личными событиями.pdf](https://github.com/DenisGriniuk/My_work_1/blob/main/assets/%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%BE%D0%B2%D0%BE%D0%B9%20%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8.pdf "PDF")
+>[Операции с личными событиями.pdf](https://github.com/DenisGriniuk/Teacher_Portal/blob/main/assets/%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%BE%D0%B2%D0%BE%D0%B9%20%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8.pdf "PDF")
 
 - **Тестирование API:**
 
-><img src="https://github.com/DenisGriniuk/My_work_1/blob/main/assets/API_1.jpg?raw=true" width="800">
+><img src="https://github.com/DenisGriniuk/Teacher_Portal/blob/main/assets/API_1.jpg?raw=true" width="800">
 
 - **Приемочное тестирование:**
 
->![acceptance](https://github.com/DenisGriniuk/My_work_1/blob/main/assets/Acceptance_testing.jpg)
+>![acceptance](https://github.com/DenisGriniuk/Teacher_Portal/blob/main/assets/Acceptance_testing.jpg)
 
 Пример:
 
->>![acceptance](https://github.com/DenisGriniuk/My_work_1/blob/main/assets/acceptance_testing_1.jpg)
->>![acceptance](https://github.com/DenisGriniuk/My_work_1/blob/main/assets/acceptance_testing_2.jpg)
+>>![acceptance](https://github.com/DenisGriniuk/Teacher_Portal/blob/main/assets/acceptance_testing_1.jpg)
+>>![acceptance](https://github.com/DenisGriniuk/Teacher_Portal/blob/main/assets/acceptance_testing_2.jpg)
 
 - **Регрессионное тестирование:**
 
->[Регресс в итогом проекте.pdf](https://github.com/DenisGriniuk/My_work_1/blob/main/assets/%D0%A0%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%81%20%D0%B2%20%D0%B8%D1%82%D0%BE%D0%B3%D0%BE%D0%BC%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B5.pdf "PDF")
+>[Регресс в итогом проекте.pdf](https://github.com/DenisGriniuk/Teacher_Portal/blob/main/assets/%D0%A0%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%81%20%D0%B2%20%D0%B8%D1%82%D0%BE%D0%B3%D0%BE%D0%BC%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B5.pdf "PDF")
 
 ---
 
@@ -66,13 +66,13 @@ _Мы добавили в календарь новый элемент — ли�
 
 Пример:
 
-><img src="https://github.com/DenisGriniuk/My_work_1/blob/main/assets/bug_API.jpg?raw=true" width="800">
+><img src="https://github.com/DenisGriniuk/Teacher_Portal/blob/main/assets/bug_API.jpg?raw=true" width="800">
 
 - **Баг репорты регресс тестирования:** 
 
 Пример:
 
-><img src="https://github.com/DenisGriniuk/My_work_1/blob/main/assets/bug_regress.jpg?raw=true" width="800">
+><img src="https://github.com/DenisGriniuk/Teacher_Portal/blob/main/assets/bug_regress.jpg?raw=true" width="800">
 
 ----
 
